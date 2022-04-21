@@ -1,6 +1,4 @@
-# My Name Is Mahmoud Easa
-
-## Landing Page Project
+# Landing Page Project
 
 ### Table of Contents
 
